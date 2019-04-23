@@ -1,0 +1,9 @@
+G:\Project\C#\CalculatorMVC\CalculatorMVC\bin\Debug\CalculatorMVC.exe.config
+G:\Project\C#\CalculatorMVC\CalculatorMVC\bin\Debug\CalculatorMVC.exe
+G:\Project\C#\CalculatorMVC\CalculatorMVC\bin\Debug\CalculatorMVC.pdb
+G:\Project\C#\CalculatorMVC\CalculatorMVC\obj\Debug\CalculatorMVC.csprojResolveAssemblyReference.cache
+G:\Project\C#\CalculatorMVC\CalculatorMVC\obj\Debug\CalculatorMVC.Properties.Resources.resources
+G:\Project\C#\CalculatorMVC\CalculatorMVC\obj\Debug\CalculatorMVC.Views.CalculatorView.resources
+G:\Project\C#\CalculatorMVC\CalculatorMVC\obj\Debug\CalculatorMVC.csproj.GenerateResource.Cache
+G:\Project\C#\CalculatorMVC\CalculatorMVC\obj\Debug\CalculatorMVC.exe
+G:\Project\C#\CalculatorMVC\CalculatorMVC\obj\Debug\CalculatorMVC.pdb
